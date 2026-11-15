@@ -17,7 +17,11 @@
 
 ### ❤️ R U My Valentine · _Private repo_
 
-![TECH](https://img.shields.io/badge/TECH-555555?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 _A Valentines Day Matchmaker released to 2000+ students_
 
@@ -55,7 +59,7 @@ A research agent over ~2,000 arXiv papers that answers the users questions with 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5B00?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 Calibrated win probabilities for NBA matchups _(in progress)_.
 
